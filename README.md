@@ -40,9 +40,3 @@ DOROTHY DECIDE E A NONNA VAI
 DAGMAR DECIDE
 DAGMAR DECIDE E A NONNA VAI
 ```
-
-## Compilar e executar
-```
-gcc anonnavai.c -o anonnavai
-./anonnavai < entrada.txt
-```
